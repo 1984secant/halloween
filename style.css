@@ -1,0 +1,17 @@
+body {
+   padding: 150px;
+}
+
+/* #container {
+
+} */
+
+.container-fluid {
+    text-align: center;
+height: 500px;
+    background-color: rgb(72, 0, 216);
+}
+
+#speaker {
+    font-size: 50px;
+}
