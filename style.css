@@ -18,6 +18,8 @@ body {
 
 #speaker {
     font-size: 40px;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+
 }
 
 
@@ -27,5 +29,7 @@ body {
     border-radius: 20px !important;
     border-width: 3px !important;
     color: #c7a1fd !important;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+
 }
 
