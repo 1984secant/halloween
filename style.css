@@ -1,18 +1,31 @@
 body {
    padding: 150px;
+   background-image: url('halloween.png');
+   justify-content: center;
+   background-repeat: repeat;
+   background-position: center;
+   font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
 }
-
-/* #container {
-
-} */
 
 .container-fluid {
     text-align: center;
     padding:25px;
     height: 300px;
-    background-color: rgb(72, 0, 216);
+    color: #32173e;
+    background-color:#c7a1fdd5;
+    justify-content: center;
 }
 
 #speaker {
-    font-size: 50px;
+    font-size: 40px;
 }
+
+
+.btn-primary, .btn-primary:active {
+    background-color: #32173e !important ;
+    border-color: #fefdf9 !important;
+    border-radius: 20px !important;
+    border-width: 3px !important;
+    color: #c7a1fd !important;
+}
+
